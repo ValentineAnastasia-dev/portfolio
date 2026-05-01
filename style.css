@@ -239,8 +239,9 @@
     border-radius: 999px;
   }
 
-.servicio-icono{
-    color: rgb(170, 102, 90);
+.servicio-icon i{
+    font-size: 1.3rem;
+    color: #f2a7b8;
 }
 
 
