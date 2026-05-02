@@ -9,6 +9,8 @@
     --blanco: #ffffff;
   }
 
+
+
   html { scroll-behavior: smooth; }
 
   body {
@@ -28,11 +30,10 @@
     backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--gris-claro);
   }
+
   .nav-logo {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.3rem;
-    color: var(--negro-suave);
-    letter-spacing: 0.02em;
+  height: 40px;
+  width: auto; 
   }
   .nav-links { display: flex; gap: 2rem; list-style: none; }
   .nav-links a {
