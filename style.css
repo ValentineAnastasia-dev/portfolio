@@ -348,5 +348,20 @@
     .hero-visual { display: none; }
     .sobre-grid { grid-template-columns: 1fr; }
     .sobre-stats { grid-template-columns: 1fr 1fr; }
+
+      .nav-links {
+    gap: 1rem;
   }
+  .nav-links a {
+    font-size: 0.75rem;
+  }
+  .sobre-grid {
+    gap: 2rem;
+  }
+  section {
+    padding: 4rem 5vw;
+  }
+  }
+
+
 
