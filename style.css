@@ -31,6 +31,7 @@
     border-bottom: 1px solid var(--gris-claro);
   }
 
+.logo-movil { display: none; }
   .nav-logo {
   height: 65px;
   max-width: 150px;
@@ -348,7 +349,8 @@
     .hero-visual { display: none; }
     .sobre-grid { grid-template-columns: 1fr; }
     .sobre-stats { grid-template-columns: 1fr 1fr; }
-
+    .logo-desktop { display: none; }
+    .logo-movil { display: block; }
       .nav-links {
     gap: 1rem;
   }
